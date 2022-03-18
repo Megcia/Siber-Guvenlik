@@ -1,4 +1,3 @@
 # Siber-Güvenlik
-In the words of Abraham Lincoln:
-
-> Pardon my French
+>İçindekiler
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) [Kimlik Doğrulama]

@@ -1,2 +1,2 @@
 # Siber-Güvenlik
-https://bit.ly/3JrYz8e
+This site was built using [GitHub Pages](https://github.com/LuNiZz/personal-security-checklist).

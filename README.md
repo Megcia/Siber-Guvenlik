@@ -15,3 +15,10 @@
 
 ![Image of Yaktocat](https://camo.githubusercontent.com/b54d44d60553ddb2307d0f7950596becdf159cb984d662c4611e5ce454abf8b3/68747470733a2f2f692e6962622e636f2f5a667463674a712f382d636f6d7075746572732d33367833362e706e67)[Kişisel Bilgisayarlar](https://github.com/LuNiZz/personal-security-checklist#personal-computers)
 
+![Image of Yaktocat](https://camo.githubusercontent.com/3a11f515a7db2b4a0d1e5eefe687890eb735ae0df5a0eb96158fdd0206f24666/68747470733a2f2f692e6962622e636f2f623253393337322f392d736d6172742d686f6d652d33367833362e706e67)[Akıllı Ev](https://github.com/LuNiZz/personal-security-checklist#smart-home)
+
+![Image of Yaktocat](https://camo.githubusercontent.com/500166894349b2ab67efde60ee710fb320bb60547ad2abb3f0685007858a45fb/68747470733a2f2f692e6962622e636f2f344a54714c35792f31322d66696e616e63652d33367833362e706e67)[Kişisel Finans](https://github.com/LuNiZz/personal-security-checklist#personal-finance)
+
+![Image of Yaktocat](https://camo.githubusercontent.com/1940ee4791a7a0ca8f3ed35d3f817994e2a6b4985802a955da9bae4595f905f7/68747470733a2f2f692e6962622e636f2f4b565056314c6b2f31302d68756d616e2d33367833362e706e67)[İnsan Yönü](https://github.com/LuNiZz/personal-security-checklist#sensible-computing)
+
+![Image of Yaktocat](https://camo.githubusercontent.com/483813965d2dfe33a8f78b6c023263b1bea57a2898104ddceb4078d048a38faf/68747470733a2f2f692e6962622e636f2f394e62684277772f31312d706879736963616c2d33367833362e706e67)[Fiziksel Güvenlik](https://github.com/LuNiZz/personal-security-checklist#physical-security)

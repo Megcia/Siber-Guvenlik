@@ -1,2 +1,7 @@
 # Siber-Güvenlik
-[Go](https://github.com/LuNiZz/personal-security-checklist)
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```

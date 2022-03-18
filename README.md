@@ -1,2 +1,2 @@
 # Siber-Güvenlik
-sad
+https://github.com/LuNiZz/personal-security-checklist.git

@@ -1,7 +1,4 @@
 # Siber-Güvenlik
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+In the words of Abraham Lincoln:
+
+> Pardon my French

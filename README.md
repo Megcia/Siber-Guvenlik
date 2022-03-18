@@ -1,2 +1,2 @@
 # Siber-Güvenlik
-![Image of Yaktocat](https://camo.githubusercontent.com/92c4c80f2c5f1a74a96b80133eb9a5506ac1449a43edb9a6b591b4dd59fad755/68747470733a2f2f692e6962622e636f2f586279475472502f312d61757468656e7469636174696f6e2d322d33367833362e706e67)[Kimlik Doğrulama].
+![Image of Yaktocat](https://camo.githubusercontent.com/92c4c80f2c5f1a74a96b80133eb9a5506ac1449a43edb9a6b591b4dd59fad755/68747470733a2f2f692e6962622e636f2f586279475472502f312d61757468656e7469636174696f6e2d322d33367833362e706e67)[Kimlik Doğrulama](https://github.com/LuNiZz/personal-security-checklist#authentication)

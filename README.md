@@ -1,2 +1,2 @@
 # Siber-Güvenlik
-This site was built using [GitHub Pages](https://github.com/LuNiZz/personal-security-checklist).
+[Dijital güvenliğinizi ve gizliliğinizi korumak için derlenmiş ipuçları listesi](https://github.com/LuNiZz/personal-security-checklist).
